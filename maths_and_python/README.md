@@ -10,5 +10,8 @@
   * _Notebook_ [Типы данных](week_1/notebooks/types_in_python.ipynb)
   * _Notebook_ [Чтение данных из файла](week_1/notebooks/ipython_files_data_reading.ipynb)
   * _Notebook_ [Запись данных в файл](week_1/notebooks/ipython_files_data_writing.ipynb)
+
+### Основы математического анализа ###
+  * _Конспект_ [Основы математического анализа](week_1/materials/Osnovy-matematicheskogo-analiza.pdf): _понятие функции действительной переменной, предел функции, производная, экстремумы, выпуклость_
   
   
