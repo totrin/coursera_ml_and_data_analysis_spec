@@ -39,3 +39,7 @@
  * Метрические алгоритмы и SVM
  * __Assignment__ 1NN против RandomForest
  * Теорема Байеса в машинном обучении
+
+## Бонус
+ * [Рекомендации книг от авторов курса](https://github.com/miptgirl/coursera_ml_and_data_analysis_spec/blob/master/learning_on_labeled_data/bonus/recommendations.md)
+ * [Пример задачи](https://github.com/miptgirl/coursera_ml_and_data_analysis_spec/blob/master/learning_on_labeled_data/bonus/imdb.ipynb): sentiment analysis данных IMDb
